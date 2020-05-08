@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System",
+        "color" : "#CBD5E166"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#3082CEFF"
+      },
+      "backgroundSelected" : "#2B6DB1FF",
+      "text" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#CBD5E1E5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 34
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#FFFFFF00",
+      "spacing" : 4,
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#90CEF3FF",
+        "font" : "System",
+        "color" : "#E2E8F0FF"
+      },
+      "backgroundSelected" : "#2C5182FF"
+    },
+    "window" : {
+      "color" : "#1A202CE0",
+      "paddingHorizontal" : 0,
+      "width" : 522,
+      "borderPadding" : 1,
+      "borderColor" : "#FFFFFF1A",
+      "blur" : 40,
+      "roundness" : 7,
+      "paddingVertical" : 4
+    },
+    "credit" : "Ernest Ojeh",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#718196FF",
+      "thickness" : 2
+    },
+    "name" : "Moderna - Dark"
+  }
+}

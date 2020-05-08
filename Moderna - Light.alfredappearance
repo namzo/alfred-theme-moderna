@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System",
+        "color" : "#2C374866"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#3082CEFF"
+      },
+      "backgroundSelected" : "#3082CEFF",
+      "text" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#1A202CE5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 34
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#FFFFFF00",
+      "spacing" : 4,
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#495668FF",
+        "font" : "System",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#90CEF366"
+    },
+    "window" : {
+      "color" : "#FFFFFFE0",
+      "paddingHorizontal" : 0,
+      "width" : 522,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 40,
+      "roundness" : 7,
+      "paddingVertical" : 4
+    },
+    "credit" : "Ernest Ojeh",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#A0AEC0FF",
+      "thickness" : 2
+    },
+    "name" : "Moderna - Light"
+  }
+}
